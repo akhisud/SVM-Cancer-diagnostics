@@ -1,7 +1,7 @@
 # SVM-Cancer-diagnostics
 Improving cancer diagnostics using machine learning (SVM, Decision Tree, Random Forest)
 
-This work was submitted as an undergraduate team project in the course 'Machine Learning' during Fall 2016. Implementation is done in R, using RWeka libraries. 
+This work was submitted as an undergraduate team project in the course 'Machine Learning' during Fall 2016. Implementation is done in R, using RWeka libraries. For more details please read the file 'Project Report.pdf'
 
 ## Usage:
 1) Obtain the dataset from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68086
